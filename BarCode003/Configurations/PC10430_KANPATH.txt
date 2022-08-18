@@ -1,0 +1,30 @@
+DatabaseLocation
+\\sql1003\m2m\M2Mdata\DATA10\Payroll
+^
+Company
+ORCHID Stealth
+^
+Screen
+Main
+^
+KFILES
+\\sql1003\M2M\KanbanFiles
+^
+Fmaddress
+1489 Cedar St
+^
+Fcity
+Holt
+^
+Fstate
+MI
+^
+Fzip
+48842
+^
+Fcountry
+United States
+^
+KFILES
+\\sql3401\M2M\KanbanFiles
+^

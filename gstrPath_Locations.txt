@@ -1,0 +1,7 @@
+\\sql1003\M2M\M2Mdata\DATA10\ShipLabel\ //From ShipHatch.frmOpen.vb!
+\\sql1003\M2M\M2Mdata\DATA10\ShipLabel\ //From ShipHatch.frmMain.vb!
+\\sql1003\M2M\M2Mdata\DATA10\ShipLabel\ //From ShipHatch.SeagullBC.vb!
+
+\\Sql6001\M2M\M2MData\DATA60\ShipLabel //From ChelseaBoxLabel.frmOpen.vb!
+\\Sql6001\M2M\M2MData\DATA60\ShipLabel\ //From ChelseaBoxLabel.frmMain.vb!
+\\Sql6001\M2M\M2MData\DATA60\ShipLabel //From ChelseaBoxLabel.SeagullBC.vb!

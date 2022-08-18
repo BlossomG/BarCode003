@@ -1,0 +1,7 @@
+ScreenStart
+INSPECTION
+^
+PRIME
+N
+^
+INSPECTION - SHIPPING

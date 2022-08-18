@@ -1,0 +1,33 @@
+DatabaseLocation
+\\Sql6001\M2M\M2MData\DATA60\Payroll
+^
+LabelLocation
+\\Sql6001\M2M\M2MData\DATA60\ShipLabel\
+^
+Company
+ORCHID Chelsea
+^
+Screen
+INSPECTION
+^
+KFILES
+\\Sql6001\M2M\Kanban
+^
+Fmaddress
+13800 Luick Dr.
+^
+Fcity
+Chelsea
+^
+Fstate
+MI
+^
+Fzip
+48118
+^
+Fcountry
+United States
+^
+KFILES
+\\Sql6001\M2M\Kanban
+^

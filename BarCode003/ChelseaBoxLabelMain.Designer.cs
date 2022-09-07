@@ -426,7 +426,7 @@
       this.nudCBLPrintQty.ForeColor = System.Drawing.SystemColors.MenuText;
       this.nudCBLPrintQty.Location = new System.Drawing.Point(350, 9);
       this.nudCBLPrintQty.Maximum = new decimal(new int[] {
-            10,
+            50,
             0,
             0,
             0});
